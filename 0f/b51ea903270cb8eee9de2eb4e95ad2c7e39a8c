@@ -1,0 +1,19 @@
+Projects.md
+  s_a3d4ff67b7bf00::t_bb2c3dc003cad6 102
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0fb51ea903270cb8eee9de2eb4e95ad2c7e39a8c",
+  "prompts": {},
+  "sessions": {
+    "s_a3d4ff67b7bf00": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a9d22397-14df-4bef-bafc-4ea6efffff8e",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Martin Varela Lorenzo <martinvl@ext.zara.com>"
+    }
+  }
+}
